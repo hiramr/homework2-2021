@@ -5,6 +5,7 @@ body{
 }
 h1{
     font-size: 64px;
+    text-align: center;
     padding: 10px;
 }
 
@@ -26,7 +27,7 @@ img{
 }
 
 div{
-
+    min-height: 125px;
     padding: 25px;
 }
 
