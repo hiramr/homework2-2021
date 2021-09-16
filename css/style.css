@@ -32,16 +32,19 @@ div{
 }
 
 #red{
+    min-height: 125px;
     text-align: right;
     background: #FF0000
 }
 
 #blue{
+    min-height: 125px;
     text-align: left;
     background: #0000FF;
 }
 
 #yellow{
+    min-height: 125px;
     text-align: right;
     background: #FFFF00;
 }
@@ -56,6 +59,7 @@ div{
 }
 
 #green{
+    min-height: 125px;
     background: #008000;
     text-align: left;
 }
