@@ -27,24 +27,24 @@ img{
 }
 
 div{
-    min-height: 125px;
+    min-height: 150px;
     padding: 25px;
 }
 
 #red{
-    min-height: 125px;
+    min-height: 150px;
     text-align: right;
     background: #FF0000
 }
 
 #blue{
-    min-height: 125px;
+    min-height: 150px;
     text-align: left;
     background: #0000FF;
 }
 
 #yellow{
-    min-height: 125px;
+    min-height: 150px;
     text-align: right;
     background: #FFFF00;
 }
@@ -59,7 +59,7 @@ div{
 }
 
 #green{
-    min-height: 125px;
+    min-height: 150px;
     background: #008000;
     text-align: left;
 }
